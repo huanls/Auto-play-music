@@ -1,5 +1,5 @@
-# Auto-play-music
-Play audio, invoke MPV via Batch File
+# 自动播放音乐
+播放音频，通过批处理文件调用MPV
 
 ---
 <div align="left">
