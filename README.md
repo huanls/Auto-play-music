@@ -48,7 +48,7 @@ false
 - 找到对应自己系统的版本下载
 - 将其解压后保存在电脑中的任意地方，或与脚本放在同一目录
 ## 脚本的安装
-- 进入[发布页面](https://github.com/huanls/Auto-play-music/releases/tag/MainRelease "Release")下载mian.zip
+- 进入[发布页面](https://github.com/huanls/Auto-play-music/releases "Release")下载mian.zip
 - 解压main.zip文件到任意位置
 - (可选)将解压的mpv文件夹移动到解压main.zip文件后的文件夹内
 - 若干次运行*启动音乐.bat*文件，待脚本将配置文件补全，也需要每次按照终端的提示编辑配置文件
