@@ -75,7 +75,7 @@ Note: No field can be left blank
 
 ## Script Installation
 
-- Go to the [Release page](https://github.com/huanls/Auto-play-music/releases/tag/MainRelease) and download `main.zip`
+- Go to the [Release page](https://github.com/huanls/Auto-play-music/releases) and download `main.zip`
 
 - Extract `main.zip` to any location
 
